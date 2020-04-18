@@ -1,6 +1,6 @@
 
 //gcc perfect.c -o tmp -lpng
-//./tmp images/hard.png images/new.png
+//./tmp images/hard.png solved/hard.png
 
 #include <limits.h>
 #include <stdlib.h>
