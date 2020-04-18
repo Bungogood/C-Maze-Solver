@@ -1,4 +1,5 @@
 //gcc main.c -o tmp -lpng
+//./tmp images/hard.png solved/hard.png
 
 #include <limits.h>
 #include <stdlib.h>
